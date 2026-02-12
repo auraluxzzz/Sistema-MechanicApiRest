@@ -1,8 +1,9 @@
 📋 Resumen del Proyecto: MechanicApiRest
-Este es un API REST desarrollado con Spring Boot para gestionar un catálogo de productos de 
-repuestos automotrices o taller mecánico.
+
+Este es un API REST desarrollado con Spring Boot para gestionar un catálogo de productos de repuestos automotrices o taller mecánico.
 
 🎯 Propósito Principal:
+
 El proyecto permite administrar un inventario de productos automotrices organizados por:
 
 -Marcas (Brands) - ej: Toyota, Honda, Ford
@@ -39,6 +40,4 @@ Cada entidad tiene endpoints REST para:
 -Control de precios diferenciados (unidad/docena/flota)
 -Sistema de consulta para talleres mecánicos
 
-Este proyecto serviría perfectamente para un taller mecánico, distribuidora de repuestos,
-o plataforma de e-commerce de autopartes que necesite organizar sus productos por compatibilidad 
-con diferentes vehículos.
+Este proyecto serviría perfectamente para un taller mecánico, distribuidora de repuestos, o plataforma de e-commerce de autopartes que necesite organizar sus productos por compatibilidad con diferentes vehículos.
